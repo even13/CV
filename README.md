@@ -25,30 +25,31 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2019 - February 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Montpellier (2013 - 2015)
+#### University of Montpellier (September 2013 - June 2015)
 
 - MSc in Biodiversity, Ecology and Evolution, specializing in Palaeontology (2-year program)
 - UK 2:1 (equivalent)
-- Other cool stuff
+- Practical experience: research interships in palaeontology and evolution.
 
-#### University of Poitiers (2010 - 2013)
+#### University of Poitiers (September 2010 - August 2013)
 
 - BSc in Earth Sciences
-- UK 2:1 (equivalent)
-- Other cool stuff
+- UK 1st (equivalent)
+- List of subjects:
+- Practical experience: field training (France), internship in a natural history museum (Stuttgart, Germany).
 
-#### Lycee Camille Guerin, Poitiers (2007 - 2010)
+#### Lycee Camille Guerin, Poitiers (September 2007 - June 2010)
 
-- Baccalaureat, specializing in Science and English
-- 15.21/20 
-- Other cool stuff
+- Baccalaureat, Science stream, option advanced English
+- Mention Bien (High Honors) 
+- List of subjects : 
 
 #### Any other qualifications
 
@@ -56,12 +57,12 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**NHM and UCL** (May 2016 - August 2019)    
+*Research Assistant*  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**University of Poitiers** (February 2016 - April 2016)   
+*Research Technician*  
 - Any experience relevent to software development
 
 ## Hobbies
