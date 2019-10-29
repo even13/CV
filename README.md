@@ -1,4 +1,4 @@
-## Your Name
+## Eve Noirault
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -32,10 +32,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Montpellier (2013 - 2015)
 
-- Subject, any specialisms
-- Grade
+- MSc in Biodiversity, Ecology and Evolution, specializing in Palaeontology (2-year program)
+- UK 2:1 (equivalent)
+- Other cool stuff
+
+#### University of Poitiers (2010 - 2013)
+
+- BSc in Earth Sciences
+- UK 2:1 (equivalent)
+- Other cool stuff
+
+#### Lycee Camille Guerin, Poitiers (2007 - 2010)
+
+- Baccalaureat, specializing in Science and English
+- 15.21/20 
 - Other cool stuff
 
 #### Any other qualifications
@@ -55,3 +67,4 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+I enjoy choir singing and reading fantasy novels.
