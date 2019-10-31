@@ -1,7 +1,7 @@
 ## Eve Noirault
-[Skills](#skills) | [Education](#education) | [Projects](#projects) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Blog](http://codingwithlaura.wordpress.com)
+[Skills](#skills) | [Education](#education) | [Projects](#projects) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/eve-noirault-251489a5) | [Extra stuff](#extra-stuff)
 
-I am a research assistant, now looking for a role in software engineering wher I can develop and expand my skillset. 
+I am a research assistant, now looking for a role in software engineering where I can develop and expand my skillset. 
 I am training as a junior Software Engineer at Makers Academy.
 
 
@@ -81,3 +81,6 @@ Passed every subject.
 ## Hobbies and Interests
 
 I enjoy choir singing and reading fantasy novels. I am passionate about the natural world.
+
+## Extra stuff
+
