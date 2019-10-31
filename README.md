@@ -1,7 +1,12 @@
 ## Eve Noirault
+[Skills](#skills) | [Education](#education) | [Projects](#projects) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Blog](http://codingwithlaura.wordpress.com)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a junior Softwware Developer trained at Makers Academy and looking for a role wher I can develop and expand my skillset.
 
+
+#### What is Makers Academy?
+Makers is a highly-selective software development bootcamp in 16 weeks.
 
 
 ## Skills
@@ -40,20 +45,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Poitiers (September 2010 - August 2013)
 
-- BSc in Earth Sciences
+- BSc in Earth and Environment Sciences
 - UK 1st (equivalent)
-- List of subjects:
 - Practical experience: field training (France), internship in a natural history museum (Stuttgart, Germany).
 
 #### Lycee Camille Guerin, Poitiers (September 2007 - June 2010)
 
 - Baccalaureat, Science stream, option advanced English
 - Mention Bien (High Honors) 
-- List of subjects : 
+- List of subjects: Maths, Physics, Biology, Geology, English, French, German, History, Geography, Latin, you name it.
+Passed every subject.
 
-#### Any other qualifications
+## Projects
 
-That in some arguable way make you a better software developer or well-rounded person
+#### First project
+
+- 
+- 
+
+#### Second project
+
+-
+-
 
 ## Experience
 
@@ -65,7 +78,6 @@ That in some arguable way make you a better software developer or well-rounded p
 *Research Technician*  
 - Any experience relevent to software development
 
-## Hobbies
+## Hobbies and Interests
 
-Any cool stuff that makes you a super part of a software development team
-I enjoy choir singing and reading fantasy novels.
+I enjoy choir singing and reading fantasy novels. I am passionate about the natural world.
