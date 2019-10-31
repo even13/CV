@@ -1,8 +1,8 @@
 ## Eve Noirault
 [Skills](#skills) | [Education](#education) | [Projects](#projects) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Blog](http://codingwithlaura.wordpress.com)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
-I am a junior Softwware Developer trained at Makers Academy and looking for a role wher I can develop and expand my skillset.
+I am a research assistant, now looking for a role in software engineering wher I can develop and expand my skillset. 
+I am training as a junior Software Engineer at Makers Academy.
 
 
 #### What is Makers Academy?
