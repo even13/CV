@@ -1,11 +1,13 @@
 ## Eve Noirault
 [Skills](#skills) | [Education](#education) | [Projects](#projects) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/eve-noirault-251489a5) | [Extra stuff](#extra-stuff)
 
-I am a Junior Software Engineer in training at Makers Academy. After spending 3 years as a specialist in 3D imaging for natural sciences, I am now looking to challenge myself in a new environment and secure a permanent position in a tech team.  
-I have been drawn to a role within this field as my skills allow me to easily work with a variety of software and programmes due to my logical, analytical and problem-solving nature. 
-I am an observer, listening to the information provided to me, taking on board the key details and coming up with evidence-based solutions and ideas. This means that I deliver results in line with specifications. 
-I have a natural eye for detail and accuracy which has been developed through my previous career as a specialist in 3D data for academic research.
+I am a Junior Software Engineer in training at Makers Academy. After spending 3 years as a specialist in 3D imaging for natural sciences, I am now looking to challenge myself in a new environment and secure a permanent position in a tech team. 
 
+I have been drawn to a role within this field as my skills allow me to easily work with a variety of software and programmes due to my logical, analytical and problem-solving nature. 
+
+I am an observer, listening to the information provided to me, taking on board the key details and coming up with evidence-based solutions and ideas. This means that I deliver results in line with specifications. 
+
+I have a natural eye for detail and accuracy which has been developed through my previous career as a specialist in 3D data for academic research.
 
 
 #### What is Makers Academy?
