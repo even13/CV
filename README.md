@@ -23,18 +23,22 @@ As part of my work as a research assistant, I determined which tool to use to pr
 #### Attention to detail
 
 I enjoy detail-oriented work and perform well in tasks that require accuracy. In my previous role, I selected specimens for scanning according to precise criteria thanks to an in-depth knowledge of the anatomy of the skull. The selection had to be done quickly due to limited time, which means working under pressure and to tight deadlines while maintaining accuracy, as a poor choice would impact the sample and the research being conducted. 
+
 I also processed 3D scans to prepare them for further study with high-degree precision. This required following a number of specific steps for each scan. Many palaeontological specimens are by nature incomplete or deformed, so I needed to reconstruct the missing elements to a high level of detail so that the specimen could be used in our sample.
+
 All this required me to be focused and to check things multiple times to minimise mistakes, which would have affected the quality of the sample and the results of the statistical tests being conducted.
 
 
 #### Organisation
 
 I successfully organised several international data collection trips across the US, Canada and Europe. This required me to travel with large, high-precision scanning equipment that I used to produce 3D scans of zoological and palaeontological specimens from over twenty collections in museums and universities.
+
 I collaboratively planned the agenda of the trips and sent it to collection managers, making sure that staff and material would be available when I arrived. I planned the logistics of the trip, booking flights and hotels and ensuring that the equipment was safely transported so that no damage occurred. I drove around the different countries, putting route plan in place so that I attended the different locations on time. These trips were conducted by myself, I did not have a team with me. 
 
 #### Communication
 
 I trained colleagues and students to become proficient, independent users of 3D scanning hardware and software. I would adapt my style of communication depending on levels of knowledge about using a 3D scanner or 3D visualization software, mostly for Masters and PhD students, postdocs and research staff, but also sometimes for the public, including young children. I used a mixture of group-based learning, with demonstrations for the whole group, and one-to-one training, with a more hands-on approach.
+
 When colleagues and students were off-site for scanning I also supported them, either being available to communicate directly with them by email on specific questions, or coming along for more challenging material. This way, I made sure that all questions and queries they might have would be answered in full, and that potential difficulties were overcome.
 
 ## Education
