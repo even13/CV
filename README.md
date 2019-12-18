@@ -86,11 +86,9 @@ When colleagues and students were off-site for scanning I also supported them, e
 
 **NHM and UCL** (May 2016 - August 2019)    
 *Research Assistant - Palaeontology*  
-- Any experience relevent to software development
 
 **University of Poitiers** (February 2016 - April 2016)   
 *Research Technician - Geology*  
-- Any experience relevent to software development
 
 ## Hobbies and Interests
 
@@ -99,4 +97,4 @@ I enjoy choir singing, classical singing and reading fantasy novels. I am passio
 ## Extra stuff
 
 - I speak French and English.
-- In my previous role I travelled around the world to gather and produce 3D scans of vertebrate skulls. Yes I did. It's on the internet [somewhere](https://www.goswamilab.com/single-post/2018/09/05/A-Megaptera-Mission-Recipe-for-scanning-a-humpback-whale-skull), but it's probably not worth your time. It's my one and only blog post, though.
+- In my previous role I travelled around the world to gather and produce 3D scans of vertebrate skulls. I'm sure there's an example of that [somewhere](https://www.goswamilab.com/single-post/2018/09/05/A-Megaptera-Mission-Recipe-for-scanning-a-humpback-whale-skull) on the internet.
