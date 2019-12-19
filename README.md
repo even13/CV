@@ -54,21 +54,19 @@ When colleagues and students were off-site for scanning I also supported them, e
 
 - MSc in Biodiversity, Ecology and Evolution, specializing in Palaeontology (2-year program)
 - UK 2:1 (equivalent)
-- Coursework included:
 - Practical experience: research interships in palaeontology and evolution.
 
 #### University of Poitiers (September 2010 - August 2013)
 
 - BSc in Earth and Environment Sciences
 - UK 1st (equivalent)
-- Coursework included:
 - Practical experience: field training (France), internship in a natural history museum (Stuttgart, Germany).
 
 #### Lycee Camille Guerin, Poitiers (September 2007 - June 2010)
 
 - Baccalaureat, Science stream, option advanced English
 - Mention Bien (High Honors) 
-- List of subjects: Maths, Physics, Biology, Geology, English, French, German, History, Geography, Latin.
+- Subjects: Maths, Physics, Biology, Geology, English, French, German, History, Geography, Latin.
 
 ## Projects
 
