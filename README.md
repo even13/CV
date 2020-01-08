@@ -1,5 +1,5 @@
 ## Eve Noirault
-[Skills](#skills) | [Education](#education) | [Projects](#projects) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/eve-noirault-251489a5) | [Extra stuff](#extra-stuff)
+[Skills](#skills) | [Education](#education) | [Projects](#projects) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/eve-noirault-251489a5)
 
 I am a Software Engineer in training at Makers Academy. After spending 3 years as a specialist in 3D imaging for natural sciences, I am now looking to challenge myself in a new environment and secure a permanent position in a tech team. 
 
@@ -90,9 +90,7 @@ When colleagues and students were off-site for scanning I also supported them, e
 
 ## Hobbies and Interests
 
-I enjoy choir singing, classical singing and reading fantasy novels. I am passionate about the natural world and I love natural history museums (museums in general, too).
-
-## Extra stuff
-
-- I speak French and English.
-- In my previous role I travelled around the world to gather and produce 3D scans of vertebrate skulls. I'm sure there's an example of that [somewhere](https://www.goswamilab.com/single-post/2018/09/05/A-Megaptera-Mission-Recipe-for-scanning-a-humpback-whale-skull) on the internet.
+I enjoy choir singing, classical singing and reading fantasy novels. 
+I am passionate about the natural world and I love natural history museums (museums in general, too).
+I speak French and English.
+In my previous role I travelled around the world to gather and produce 3D scans of vertebrate skulls. I'm sure there's an example of that [somewhere](https://www.goswamilab.com/single-post/2018/09/05/A-Megaptera-Mission-Recipe-for-scanning-a-humpback-whale-skull) on the internet.
