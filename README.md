@@ -90,7 +90,7 @@ When colleagues and students were off-site for scanning I also supported them, e
 
 ## Hobbies and Interests
 
-I enjoy choir singing, classical singing and reading fantasy novels. 
-I am passionate about the natural world and I love natural history museums (museums in general, too).
-I speak French and English.
-In my previous role I travelled around the world to gather and produce 3D scans of vertebrate skulls. I'm sure there's an example of that [somewhere](https://www.goswamilab.com/single-post/2018/09/05/A-Megaptera-Mission-Recipe-for-scanning-a-humpback-whale-skull) on the internet.
+I enjoy choir singing, classical singing and reading fantasy novels.    
+I am passionate about the natural world and science, and I love natural history museums (museums in general, too).  
+I speak French and English.    
+In my previous role I travelled around the world to gather and produce 3D scans of vertebrate skulls. I'm sure there's an example of that [somewhere](https://www.goswamilab.com/single-post/2018/09/05/A-Megaptera-Mission-Recipe-for-scanning-a-humpback-whale-skull) on the internet.    
