@@ -39,7 +39,7 @@ I collaboratively planned the agenda of the trips and sent it to collection mana
 
 I trained colleagues and students to become proficient, independent users of 3D scanning hardware and software. I would adapt my style of communication depending on levels of knowledge about using a 3D scanner or 3D visualization software, mostly for Masters and PhD students, postdocs and research staff, but also sometimes for the public, including young children. I used a mixture of group-based learning, with demonstrations for the whole group, and one-to-one training, with a more hands-on approach.
 
-When colleagues and students were off-site for scanning I also supported them, either being available to communicate directly with them by email on specific questions, or coming along for more challenging material. This way, I made sure that all questions and queries they might have would be answered in full, and that potential difficulties were overcome.
+When colleagues and students were off-site for scanning I also supported them, either being available to communicate directly with them by email on specific questions, or coming along to help for more challenging material (for example, see my none-too-serious tutorial on [how to scan a whale skull](https://www.goswamilab.com/single-post/2018/09/05/A-Megaptera-Mission-Recipe-for-scanning-a-humpback-whale-skull)). This way, I made sure that all questions and queries they might have would be answered in full, and that potential difficulties were overcome.
 
 ## Education
 
@@ -54,13 +54,12 @@ When colleagues and students were off-site for scanning I also supported them, e
 
 - MSc in Biodiversity, Ecology and Evolution, specializing in Palaeontology (2-year program)
 - UK 2:1 (equivalent)
-- Practical experience: research interships in palaeontology and evolution.
+- Research internships in palaeontology and evolution involving statistical analysis with R.
 
 #### University of Poitiers (September 2010 - August 2013)
 
 - BSc in Earth and Environment Sciences
 - UK 1st (equivalent)
-- Practical experience: field training (France), internship in a natural history museum (Stuttgart, Germany).
 
 #### Lycee Camille Guerin, Poitiers (September 2007 - June 2010)
 
@@ -93,4 +92,3 @@ When colleagues and students were off-site for scanning I also supported them, e
 I enjoy choir singing, classical singing and reading fantasy novels.    
 I am passionate about the natural world and science, and I love natural history museums (museums in general, too).  
 I speak French and English.    
-In my previous role I travelled around the world to gather and produce 3D scans of vertebrate skulls. I'm sure there's an example of that [somewhere](https://www.goswamilab.com/single-post/2018/09/05/A-Megaptera-Mission-Recipe-for-scanning-a-humpback-whale-skull) on the internet.    
