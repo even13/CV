@@ -81,7 +81,7 @@ When colleagues and students were off-site for scanning I also supported them, e
 
 ## Experience
 
-**NHM and UCL** (May 2016 - August 2019)    
+**Natural History Museum and University College London** (May 2016 - August 2019)    
 *Research Assistant - Palaeontology*  
 
 **University of Poitiers** (February 2016 - April 2016)   
