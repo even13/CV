@@ -7,7 +7,7 @@ I have been drawn to a role within this field as my skills allow me to easily wo
 
 I am an observer, listening to the information provided to me, taking on board the key details and coming up with evidence-based solutions and ideas. This means that I deliver results in line with specifications. 
 
-I have a natural eye for detail and accuracy which has been developed through my previous career as a specialist in 3D data for academic research.
+I have a natural eye for detail and accuracy which has been developed through my previous career as a palaeontologist.
 
 
 #### What is Makers Academy?
@@ -18,28 +18,34 @@ Makers is a highly-selective software development bootcamp in 16 weeks. More inf
 
 #### Logical thinking
 
-As part of my work as a research assistant, I determined which tool to use to produce the best possible 3D image depending on the specimen. I also established best practice protocols for surface scanning and for the processing of 3D scan data.
+As part of my work as a research assistant, I determined which tool to use to produce the best possible 3D image depending on the specimen. I also established best practice protocols for surface scanning and for the processing of 3D scan data.  
+
+This allows me to break down bigger problems into smaller ones and build a solution accordingly, be it related to code or to something completely different.
 
 #### Attention to detail
 
-I enjoy detail-oriented work and perform well in tasks that require accuracy. In my previous role, I selected specimens for scanning according to precise criteria thanks to an in-depth knowledge of the anatomy of the skull. The selection had to be done quickly due to limited time, which means working under pressure and to tight deadlines while maintaining accuracy, as a poor choice would impact the sample and the research being conducted. 
+I enjoy detail-oriented work and perform well in tasks that require accuracy. In my previous role, I selected specimens for scanning according to precise criteria and in a limited amount of time. This meant working under pressure and to tight deadlines while maintaining accuracy, as a poor choice would impact the sample and the research being conducted. 
 
-I also processed 3D scans to prepare them for further study with high-degree precision. This required following a number of specific steps for each scan. Many palaeontological specimens are by nature incomplete or deformed, so I needed to reconstruct the missing elements to a high level of detail so that the specimen could be used in our sample.
+I also processed 3D scans to prepare them for further study with high-degree precision. Many palaeontological specimens are by nature incomplete or deformed, so I sometimes needed to reconstruct the missing elements to a high level of detail so that the specimen could be used in our sample.
 
-All this required me to be focused and to check things multiple times to minimise mistakes, which would have affected the quality of the sample and the results of the statistical tests being conducted.
+All this required me to be focused and to check things multiple times to minimise mistakes, which would have affected the quality of the sample and the results of the statistical tests being conducted. I also use this skill while debugging code, paying attention to what the error is in order to make sense of it and find an appropriate solution.
 
 
 #### Organisation
 
-I successfully organised several international data collection trips across the US, Canada and Europe. This required me to travel with large, high-precision scanning equipment that I used to produce 3D scans of zoological and palaeontological specimens from over twenty collections in museums and universities.
+I successfully organised several international data collection trips across the US, Canada and Europe, for which I visited over twenty collections in museums and universities.
 
-I collaboratively planned the agenda of the trips and sent it to collection managers, making sure that staff and material would be available when I arrived. I planned the logistics of the trip, booking flights and hotels and ensuring that the equipment was safely transported so that no damage occurred. I drove around the different countries, putting route plan in place so that I attended the different locations on time. These trips were conducted by myself, I did not have a team with me. 
+I collaboratively planned the agenda of the trips and sent it to collection managers, making sure that staff and material would be available when I arrived. I planned the logistics of the trips and drove around the different countries with the scientific equipment I needed, putting route plan in place so that I attended the different locations on time. These trips were conducted by myself, I did not have a team with me. 
+
+I have a high level of self-organization and I take responsibility for the parts of a project that depend on me, in terms of quality and rapid delivery. This is something I found useful when we had our first experience of Agile methodologies in our group projects at Makers.
 
 #### Communication
 
-I trained colleagues and students to become proficient, independent users of 3D scanning hardware and software. I would adapt my style of communication depending on levels of knowledge about using a 3D scanner or 3D visualization software, mostly for Masters and PhD students, postdocs and research staff, but also sometimes for the public, including young children. I used a mixture of group-based learning, with demonstrations for the whole group, and one-to-one training, with a more hands-on approach.
+I trained colleagues and students to become proficient, independent users of 3D scanning hardware and software. I would adapt my style of communication depending on levels of knowledge about using a 3D scanner or 3D visualization software. I used a mixture of group-based learning, with demonstrations for the whole group, and one-to-one training, with a more hands-on approach.
 
 When colleagues and students were off-site for scanning I also supported them, either being available to communicate directly with them by email on specific questions, or coming along to help for more challenging material (for example, see my none-too-serious tutorial on [how to scan a whale skull](https://www.goswamilab.com/single-post/2018/09/05/A-Megaptera-Mission-Recipe-for-scanning-a-humpback-whale-skull)). This way, I made sure that all questions and queries they might have would be answered in full, and that potential difficulties were overcome.
+
+The ability to communicate efficiently on technical topics has also been very important when working in teams at Makers.
 
 ## Education
 
@@ -69,15 +75,11 @@ When colleagues and students were off-site for scanning I also supported them, e
 
 ## Projects
 
-#### First project
-
-- 
-- 
-
-#### Second project
-
--
--
+| Title        | Description           | Development timeframe  | Technologies Used | Test Suites/CIs/CDs Employed |
+| -------------|:--------------------:|:----------------------:|:------------------:|:-----------------------------:|
+| [Acebook](https://github.com/even13/acebook-luckerberg) Team Project| A team effort at building a clone of Facebook. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), PostgreSQL, Heroku | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver, Simplecov |
+| [Bank Tech Test](https://github.com/even13/bank-tech-test) Flying Solo | A basic command line bank app that allows clients to print their statement. |   2 days | Ruby | RSpec, Simplecov |
+|      |              |                   |   |   |
 
 ## Experience
 
