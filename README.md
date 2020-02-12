@@ -7,11 +7,7 @@ I have been drawn to a role within this field as my skills allow me to easily wo
 
 I am an observer, listening to the information provided to me, taking on board the key details and coming up with evidence-based solutions and ideas. This means that I deliver results in line with specifications. 
 
-I have a natural eye for detail and accuracy which has been developed through my previous career as a palaeontologist.
-
-
-#### What is Makers Academy?
-Makers is a highly-selective software development bootcamp in 16 weeks. More info about Makers [here](https://makers.tech/).
+I have a natural eye for detail and accuracy which has been developed through my previous career as a palaeontologist.   
 
 
 ## Skills
@@ -91,6 +87,6 @@ The ability to communicate efficiently on technical topics has also been very im
 
 ## Hobbies and Interests
 
-I enjoy choir singing, classical singing and reading fantasy novels.    
-I am passionate about the natural world and science, and I love natural history museums (museums in general, too).  
+I practice choir singing and classical singing.    
+I am passionate about the natural world and science, and I love natural history museums (museums in general, too). I also enjoy looking for fossils or archaeological objects.  
 I speak French and English.    
