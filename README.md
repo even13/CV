@@ -1,7 +1,7 @@
 ## Eve Noirault
 [Skills](#skills) | [Education](#education) | [Projects](#projects) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/eve-noirault-251489a5)
 
-I am a Software Engineer in training at Makers Academy. After spending 3 years as a specialist in 3D imaging for natural sciences, I am now looking to challenge myself in a new environment and secure a permanent position in a tech team. 
+I am a Software Engineer trained at Makers Academy. After spending 3 years as a specialist in 3D imaging for natural sciences, I am now looking to challenge myself in a new environment and secure a permanent position in a tech team. 
 
 I have been drawn to a role within this field as my skills allow me to easily work with a variety of software and programmes due to my logical, analytical and problem-solving nature. 
 
@@ -88,5 +88,5 @@ The ability to communicate efficiently on technical topics has also been very im
 ## Hobbies and Interests
 
 I practice choir singing and classical singing.    
-I am passionate about the natural world and science, and I love natural history museums (museums in general, too). I also enjoy looking for fossils or archaeological objects.  
+I am curious by nature and enjoy getting an in-depth knowledge of things I'm interested in. I am passionate about the natural world and science, and I love natural history museums (museums in general, too). I also enjoy looking for fossils or archaeological objects.  
 I speak French and English.    
