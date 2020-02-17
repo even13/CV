@@ -47,10 +47,14 @@ The ability to communicate efficiently on technical topics has also been very im
 
 #### Makers Academy (November 2019 - February 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Object Oriented Programming
+- Test-Driven Development (TDD)
+- Domain-Driven DEsoign (DDD)
+- Agile methodologies
+- XP values
+- Ruby, RSpec, Rails
+- JavaScript, Jasmine, Node.js, React, Jest
+- PostgreSQL databases
 
 #### University of Montpellier (September 2013 - June 2015)
 
