@@ -49,7 +49,7 @@ The ability to communicate efficiently on technical topics has also been very im
 
 - Object Oriented Programming
 - Test-Driven Development (TDD)
-- Domain-Driven DEsoign (DDD)
+- Domain Driven Design (DDD)
 - Agile methodologies
 - XP values
 - Ruby, RSpec, Rails
