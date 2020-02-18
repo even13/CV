@@ -33,7 +33,7 @@ I successfully organised several international data collection trips across the 
 
 I collaboratively planned the agenda of the trips and sent it to collection managers, making sure that staff and material would be available when I arrived. I planned the logistics of the trips and drove around the different countries with the scientific equipment I needed, putting route plan in place so that I attended the different locations on time. These trips were conducted by myself, I did not have a team with me. 
 
-I have a high level of self-organization and I take responsibility for the parts of a project that depend on me, in terms of quality and rapid delivery. This is something I found useful when we had our first experience of Agile methodologies in our group projects at Makers.
+I have a high level of self-organisation and I take responsibility for the parts of a project that depend on me, in terms of quality and rapid delivery. This is something I found useful when we had our first experience of Agile methodologies in our group projects at Makers.
 
 #### Communication
 
@@ -55,6 +55,7 @@ The ability to communicate efficiently on technical topics has also been very im
 - Ruby, RSpec, Rails
 - JavaScript, Jasmine, Node.js, React, Jest
 - PostgreSQL databases
+- Build tooling (CI/CD, Travis)
 
 #### University of Montpellier (September 2013 - June 2015)
 
