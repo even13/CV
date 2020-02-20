@@ -45,7 +45,8 @@ The ability to communicate efficiently on technical topics has also been very im
 
 ## Education
 
-#### Makers Academy (November 2019 - February 2020)
+#### Makers Academy (Nov 2019 - Feb 2020)
+A selective coding bootcamp where TDD, pair programming and agile methodologies are combined to produce well-rounded developers with a growth mindset.
 
 - Object Oriented Programming
 - Test-Driven Development (TDD)
@@ -57,22 +58,19 @@ The ability to communicate efficiently on technical topics has also been very im
 - PostgreSQL databases
 - Build tooling (CI/CD, Travis)
 
-#### University of Montpellier (September 2013 - June 2015)
+#### University of Montpellier (Sep 2013 - Jun 2015)
 
-- MSc in Biodiversity, Ecology and Evolution, specializing in Palaeontology (2-year program)
-- UK 2:1 (equivalent)
-- Research internships in palaeontology and evolution involving statistical analysis with R.
+**MSc in Biodiversity, Ecology and Evolution, specializing in Palaeontology** (2-year program)   
+In this course I learned how to tackle academic research projects, for example how to manage my time on a project and meet deadlines, how to extract information from technical or scientific documentation, and how to break down big problematics into smaller problems. I also gained my first experience of coding through my internships, which involved statistical analysis with R. I graduated with a grade equivalent to a UK 2:1.   
 
-#### University of Poitiers (September 2010 - August 2013)
+#### University of Poitiers (Sep 2010 - Aug 2013)
+**BSc in Earth and Environment Sciences**
+I developed my scientific curiosity and my logical thinking throughout the course, which approached current-day problematics in geology. It gave me a solid background in my field that allowed me to grow as a scientist. I graduated with a UK 1st equivalent.
 
-- BSc in Earth and Environment Sciences
-- UK 1st (equivalent)
+#### Lycee Camille Guerin, Poitiers (Sep 2007 - Jun 2010)
 
-#### Lycee Camille Guerin, Poitiers (September 2007 - June 2010)
-
-- Baccalaureat, Science stream, option advanced English
-- Mention Bien (High Honors) 
-- Subjects: Maths, Physics, Biology, Geology, English, French, German, History, Geography, Latin.
+**Baccalaureat, Science stream with Natural Sciences, option advanced English**
+I gained a broad cultural background and passed final exams in all sorts of subjects: Maths, Physics, Biology, Geology, English, French, German, History, Geography, Latin. I obtained Mention Bien (High Honors) on the general grade of the Baccalaureat.
 
 ## Projects
 
@@ -84,14 +82,14 @@ The ability to communicate efficiently on technical topics has also been very im
 
 ## Experience
 
-**Natural History Museum and University College London** (May 2016 - August 2019)    
+**Natural History Museum and University College London** (May 2016 - Aug 2019)    
 *Research Assistant - Palaeontology*  
 
-**University of Poitiers** (February 2016 - April 2016)   
+**University of Poitiers** (Feb 2016 - Apr 2016)   
 *Research Technician - Geology*  
 
 ## Hobbies and Interests
 
-I practice choir singing and classical singing.    
+I practice choir and classical singing.     
 I am curious by nature and enjoy getting an in-depth knowledge of things I'm interested in. I am passionate about the natural world and science, and I love natural history museums (museums in general, too). I also enjoy looking for fossils or archaeological objects.  
-I speak French and English.    
+I am a native speaker of French and bilingual in English. Each language works with its own logic, its own idioms, and learning to express my thoughts in a different language has helped me develop a more open mind and generally modified the way I think or approach things.       
