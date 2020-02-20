@@ -60,16 +60,16 @@ A selective coding bootcamp where TDD, pair programming and agile methodologies 
 
 #### University of Montpellier (Sep 2013 - Jun 2015)
 
-**MSc in Biodiversity, Ecology and Evolution, specializing in Palaeontology** (2-year program)   
+_**MSc in Biodiversity, Ecology and Evolution, specializing in Palaeontology** (2-year program)_   
 In this course I learned how to tackle academic research projects, for example how to manage my time on a project and meet deadlines, how to extract information from technical or scientific documentation, and how to break down big problematics into smaller problems. I also gained my first experience of coding through my internships, which involved statistical analysis with R. I graduated with a grade equivalent to a UK 2:1.   
 
 #### University of Poitiers (Sep 2010 - Aug 2013)
-**BSc in Earth and Environment Sciences**
+_**BSc in Earth and Environment Sciences**_    
 I developed my scientific curiosity and my logical thinking throughout the course, which approached current-day problematics in geology. It gave me a solid background in my field that allowed me to grow as a scientist. I graduated with a UK 1st equivalent.
 
 #### Lycee Camille Guerin, Poitiers (Sep 2007 - Jun 2010)
 
-**Baccalaureat, Science stream with Natural Sciences, option advanced English**
+_**Baccalaureat, Science stream with Natural Sciences, option advanced English**_   
 I gained a broad cultural background and passed final exams in all sorts of subjects: Maths, Physics, Biology, Geology, English, French, German, History, Geography, Latin. I obtained Mention Bien (High Honors) on the general grade of the Baccalaureat.
 
 ## Projects
