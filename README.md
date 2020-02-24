@@ -78,7 +78,7 @@ I gained a broad cultural background and passed final exams in all sorts of subj
 | -------------|:--------------------:|:----------------------:|:------------------:|:-----------------------------:|
 | [Acebook](https://github.com/even13/acebook-luckerberg) Team Project| A team effort at building a clone of Facebook. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), PostgreSQL, Heroku | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver, Simplecov |
 | [Bank Tech Test](https://github.com/even13/bank-tech-test) Flying Solo | A basic command line bank app that allows clients to print their statement. |   2 days | Ruby | RSpec, Simplecov |
-|      |              |                   |   |   |
+|[N.E.O.N.](https://github.com/even13/game_of_life) Team Project| A gamified version of Conway's game of life. | 2 weeks | JavaScript, React | Jest, Enzyme, Travis, ESLint, CodeClimate |
 
 ## Experience
 
