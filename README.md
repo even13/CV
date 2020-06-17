@@ -1,47 +1,41 @@
 ## Eve Noirault
 [Skills](#skills) | [Education](#education) | [Projects](#projects) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/eve-noirault-251489a5)
 
-I am a Software Engineer trained at Makers Academy. After spending 3 years as a specialist in 3D imaging for natural sciences, I am now looking to challenge myself in a new environment and secure a permanent position in a tech team. 
-
-I have been drawn to a role within this field as my skills allow me to easily work with a variety of software and programmes due to my logical, analytical and problem-solving nature. 
-
-I am an observer, listening to the information provided to me, taking on board the key details and coming up with evidence-based solutions and ideas. This means that I deliver results in line with specifications. 
-
-I have a natural eye for detail and accuracy which has been developed through my previous career as a palaeontologist.   
+I am a Software Engineer trained at Makers Academy. After spending 3 years as a palaeontologist specialised in 3D imaging, I am now looking to challenge myself in a new environment and secure a permanent position in a tech team.   
 
 
 ## Skills
 
-#### Logical thinking
+#### Curiosity and learning
+My master’s degree and following career in academic research allowed my natural curiosity to thrive and turned it into a research skill, which enables me to pull meaningful information from technical documentation and successfully use it in context. I have efficiently used my ability to learn while studying software engineering at Makers, but also before, as I taught myself 3D imaging for the natural sciences to a level that allowed me to pursue a career in the field.  
 
-As part of my work as a research assistant, I determined which tool to use to produce the best possible 3D image depending on the specimen. I also established best practice protocols for surface scanning and for the processing of 3D scan data.  
+I am passionate about learning and naturally drawn to a role that will allow me to further my craftsmanship as a developer. 
 
-This allows me to break down bigger problems into smaller ones and build a solution accordingly, be it related to code or to something completely different.
+#### Problem-solving
+
+I am a natural problem-solver, which allows me to break down bigger problems into smaller ones and build a solution accordingly, be it related to code or to something completely different. As part of my previous work as a research assistant, I determined which tools to use to produce the best possible 3D model depending on the specimen. I established best practice protocols for surface scanning and processing 3D scan data which led to successful data collection and scientific publications.     
+
+During engineering projects, alongside delivering Minimum Viable Products (MVPs) under the guidance of a simulated product owner over 2-day sprints, I focused on using agile methodologies in a team context to solve complex problems and deliver adaptable, effective services that met the specifications.   
+
 
 #### Attention to detail
 
-I enjoy detail-oriented work and perform well in tasks that require accuracy. In my previous role, I selected specimens for scanning according to precise criteria and in a limited amount of time. This meant working under pressure and to tight deadlines while maintaining accuracy, as a poor choice would impact the sample and the research being conducted. 
+I enjoy detail-oriented work and perform well in tasks that require accuracy. In my previous role, I selected specimens for scanning according to precise criteria and in a limited amount of time. This meant working under pressure and to tight deadlines while maintaining accuracy, as a poor choice would impact the sample and the research being conducted. I also processed 3D scans to prepare them for further study with high-degree precision, and sometimes performed a virtual reconstruction of missing elements to a high level of detail so that the specimen could be used in our sample.
 
-I also processed 3D scans to prepare them for further study with high-degree precision. Many palaeontological specimens are by nature incomplete or deformed, so I sometimes needed to reconstruct the missing elements to a high level of detail so that the specimen could be used in our sample.
-
-All this required me to be focused and to check things multiple times to minimise mistakes, which would have affected the quality of the sample and the results of the statistical tests being conducted. I also use this skill while debugging code, paying attention to what the error is in order to make sense of it and find an appropriate solution.
-
+All this required me to be focused and to check things multiple times to minimise mistakes, which would have affected the quality of the sample and the results of the statistical tests being conducted. I also use this skill while debugging code, in order to make sense of the error message, tighten the loop and find an appropriate solution.
 
 #### Organisation
 
-I successfully organised several international data collection trips across the US, Canada and Europe, for which I visited over twenty collections in museums and universities.
+In my job before Makers, I collaboratively planned the agenda of several international data collection trips across the US, Canada and Europe, for which I visited over twenty collections in museums and universities. I coordinated with collection managers, academic researchers and other stakeholders, making sure that staff and material would be available when I arrived. I planned the logistics of the trips and drove around six different countries with the scientific equipment I needed, putting route plans in place so that I could attend the different locations on time.
 
-I collaboratively planned the agenda of the trips and sent it to collection managers, making sure that staff and material would be available when I arrived. I planned the logistics of the trips and drove around the different countries with the scientific equipment I needed, putting route plan in place so that I attended the different locations on time. These trips were conducted by myself, I did not have a team with me. 
+I have a high level of self-organisation and I take responsibility for the parts of a project that depend on me, in terms of quality and rapid delivery. This is something I found useful when we had our first experience of Agile methodologies in our group projects at Makers, particularly while working in 2-day sprints.
 
-I have a high level of self-organisation and I take responsibility for the parts of a project that depend on me, in terms of quality and rapid delivery. This is something I found useful when we had our first experience of Agile methodologies in our group projects at Makers.
+#### Communication and team work
 
-#### Communication
+My solid basis of software knowledge is complemented by essential communication skills I have developed in my previous career as a research assistant. In 2019 I took part in the European Researchers Night at the Natural History Museum in London, where I had the opportunity to demonstrate surface scanning to all kinds of people, from young children to museum enthusiasts to university professors. The ability to communicate efficiently on technical topics has also been very important when working in teams at Makers, as it permits to ask the right questions about the problem at hand.
 
-I trained colleagues and students to become proficient, independent users of 3D scanning hardware and software. I would adapt my style of communication depending on levels of knowledge about using a 3D scanner or 3D visualization software. I used a mixture of group-based learning, with demonstrations for the whole group, and one-to-one training, with a more hands-on approach.
+When colleagues and students were off-site for scanning I also supported them, either being available to communicate directly with them or coming along to help for more challenging material (for example, see my none-too-serious tutorial on [how to scan a whale skull](https://www.goswamilab.com/single-post/2018/09/05/A-Megaptera-Mission-Recipe-for-scanning-a-humpback-whale-skull)). This way, I made sure that all questions and queries they might have would be answered in full, and that potential difficulties were overcome.
 
-When colleagues and students were off-site for scanning I also supported them, either being available to communicate directly with them by email on specific questions, or coming along to help for more challenging material (for example, see my none-too-serious tutorial on [how to scan a whale skull](https://www.goswamilab.com/single-post/2018/09/05/A-Megaptera-Mission-Recipe-for-scanning-a-humpback-whale-skull)). This way, I made sure that all questions and queries they might have would be answered in full, and that potential difficulties were overcome.
-
-The ability to communicate efficiently on technical topics has also been very important when working in teams at Makers.
 
 ## Education
 
