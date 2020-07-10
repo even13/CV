@@ -54,17 +54,29 @@ A selective coding bootcamp where TDD, pair programming and agile methodologies 
 
 #### University of Montpellier (Sep 2013 - Jun 2015)
 
-_**MSc in Biodiversity, Ecology and Evolution, specializing in Palaeontology** (2-year program)_   
-In this course I learned how to tackle academic research projects, for example how to manage my time on a project and meet deadlines, how to extract information from technical or scientific documentation, and how to break down big questions into smaller problems. I also gained my first experience of coding through my internships, which involved statistical analysis with R. I graduated with a grade equivalent to a UK 2:1.   
+_**MSc in Biodiversity, Ecology and Evolution, specializing in Palaeontology** (2-year program)_      
+- Learned how to learn and problem-solve.
+- Tackled academic research projects and wrote theses.
+- Analysed and interpreted 3D morphometrics data using R.  
+- Researched and extracted information from technical and scientific documentation.
+- Graduated with UK 2:1 equivalent
+
 
 #### University of Poitiers (Sep 2010 - Aug 2013)
+
 _**BSc in Earth and Environment Sciences**_    
-I developed my scientific curiosity and my logical thinking throughout the course, which approached current-day problematics in geology. It gave me a solid background in my field that allowed me to grow as a scientist. I graduated with a UK 1st equivalent.
+- Developed scientific curiosity and logical thinking.
+- Approached current-day themes in geology. 
+- Acquired a solid background to grow as a scientist.
+- Graduated with UK 1st equivalent
+
 
 #### Lycee Camille Guerin, Poitiers (Sep 2007 - Jun 2010)
 
 _**Baccalaureat, Science stream with Natural Sciences, option advanced English**_   
-I gained a broad cultural background and passed final exams in all sorts of subjects: Maths, Physics, Biology, Geology, English, French, German, History, Geography, Latin. I obtained Mention Bien (High Honors) on the general grade of the Baccalaureat.
+- Gained a broad cultural background 
+- Passed final exams in all subjects taken: Maths, Physics, Biology, Geology, English, French, German, History, Geography, Latin. 
+- Obtained Mention Bien (High Honors) on the general grade of the Baccalaureat.
 
 ## Projects
 
@@ -78,13 +90,16 @@ I gained a broad cultural background and passed final exams in all sorts of subj
 
 **Natural History Museum and University College London** (May 2016 - Aug 2019)    
 *Research Assistant - Palaeontology*  
-- Collect and process 3D scans of fossil and extant Tetrapods in multiple museum and university collections in Europe and North America
-- Expertise in 3D imaging for natural sciences
+- Collected and processed 600+ 3D scans of fossil and extant Tetrapods
+- Organised and carried out data collection trips in 20+ museum and university collections in Europe and North America
+- Produced 3D scans at expert level
+- Presented 3D imaging to the public and to other scientists
 
 **University of Poitiers** (Feb 2016 - Apr 2016)   
 *Research Technician - Geology*  
-- Process CT scans of sedimentary rocks from the Francevillian basin (Gabon)
-- Handle records associated to rock samples
+- Processed CT scans of sedimentary rocks from Gabon
+- Handled records associated to rock samples
+
 
 ## Hobbies and Interests
 
