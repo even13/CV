@@ -4,9 +4,9 @@
 I am a Software Engineer trained at Makers Academy. After spending 3 years as a palaeontologist specialised in 3D imaging, I am now looking to challenge myself in a new environment and secure a permanent position in a tech team.   
 
 
-## Skills
+## Strengths
 
-#### Curiosity and learning
+#### Curiosity and love of learning
 My master’s degree and following career in academic research allowed my natural curiosity to thrive and turned it into a research skill, which enables me to pull meaningful information from technical documentation and successfully use it in context. I have efficiently used my ability to learn while studying software engineering at Makers, but also before, as I taught myself 3D imaging for the natural sciences to a level that allowed me to pursue a career in the field.  
 
 I am passionate about learning and naturally drawn to a role that will allow me to further my craftsmanship as a developer. 
@@ -78,9 +78,13 @@ I gained a broad cultural background and passed final exams in all sorts of subj
 
 **Natural History Museum and University College London** (May 2016 - Aug 2019)    
 *Research Assistant - Palaeontology*  
+- Collect and process 3D scans of fossil and extant Tetrapods in multiple museum and university collections in Europe and North America
+- Expertise in 3D imaging for natural sciences
 
 **University of Poitiers** (Feb 2016 - Apr 2016)   
 *Research Technician - Geology*  
+- Process CT scans of sedimentary rocks from the Francevillian basin (Gabon)
+- Handle records associated to rock samples
 
 ## Hobbies and Interests
 
